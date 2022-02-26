@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidTopics/GridLayout/GridLayout_Code/app/src/main/res/drawable/ic_baseline_cake_50.xml" value="0.2703125" />
+        <entry key="..\:/AndroidTopics/GridLayout/GridLayout_Code/app/src/main/res/drawable/ic_baseline_chalet_50.xml" value="0.2703125" />
+        <entry key="..\:/AndroidTopics/GridLayout/GridLayout_Code/app/src/main/res/drawable/ic_baseline_clean_hands_50.xml" value="0.2703125" />
+        <entry key="..\:/AndroidTopics/GridLayout/GridLayout_Code/app/src/main/res/drawable/ic_baseline_follow_the_signs_50.xml" value="0.2703125" />
+        <entry key="..\:/AndroidTopics/GridLayout/GridLayout_Code/app/src/main/res/drawable/ic_baseline_king_bed_50.xml" value="0.2703125" />
+        <entry key="..\:/AndroidTopics/GridLayout/GridLayout_Code/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
