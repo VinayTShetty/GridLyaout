@@ -11,30 +11,56 @@
         android:id="@+id/image_cake"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_margin="20dp"
         android:src="@drawable/ic_baseline_cake_50">
     </ImageView>
     <ImageView
         android:id="@+id/image_cleanhands"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_margin="20dp"
         android:src="@drawable/ic_baseline_clean_hands_50">
     </ImageView>
     <ImageView
         android:id="@+id/image_followsigns"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_margin="20dp"
         android:src="@drawable/ic_baseline_follow_the_signs_50">
     </ImageView>
     <ImageView
         android:id="@+id/image_kingBed"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_margin="20dp"
         android:src="@drawable/ic_baseline_king_bed_50">
     </ImageView>
     <ImageView
         android:id="@+id/image_chalet"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_margin="20dp"
         android:src="@drawable/ic_baseline_chalet_50">
+    </ImageView>
+    <ImageView
+        android:id="@+id/image_bubble"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:src="@drawable/ic_baseline_chat_bubble_100">
+    </ImageView>
+    <ImageView
+        android:id="@+id/image_grill"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:src="@drawable/ic_baseline_outdoor_grill_100">
+    </ImageView>
+    <ImageView
+        android:id="@+id/image_hike"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:src="@drawable/ic_baseline_downhill_skiing_24">
     </ImageView>
 </GridLayout>
